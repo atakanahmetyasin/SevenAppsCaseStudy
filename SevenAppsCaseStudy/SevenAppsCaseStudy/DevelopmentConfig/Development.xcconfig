@@ -1,0 +1,14 @@
+//
+//  Development.xcconfig
+//  SevenAppsCaseStudy
+//
+//  Created by Ahmet Yasin Atakan on 19.01.2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+TEST_HOST = $(BUILT_PRODUCTS_DIR)/SevenAppsCaseStudyDev.app/SevenAppsCaseStudyDev
+BASE_URL = https:\/\/jsonplaceholder.typicode.com\/
+BUNDLE_ID = com.ahmetyasinatakan.SevenAppsCaseStudyDev
+APP_NAME = SevenAppsCaseStudyDev
